@@ -11,7 +11,7 @@ Yazi previewer for FLAC files: shows the embedded cover art, extracted with
 ## Installation
 
 ```sh
-ya pkg add ibtrujillo/flac.yazi
+ya pkg add ibtrujillo/flac
 ```
 
 ## Usage
